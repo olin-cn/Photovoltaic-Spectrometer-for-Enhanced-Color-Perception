@@ -1,1 +1,1 @@
-# Self-powered-Spectrometer-for-Enhanced-Color-Perception
+# Photovoltaic Spectrometer for Enhanced Color Perception
