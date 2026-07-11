@@ -29,7 +29,7 @@ tf.random.set_seed(SEED)
 
 
 class CONFIG:
-    MODE = 3
+    MODE = 1  #1, 2, 3
     IMG_SIZE = 32
     PATCH_SIZE = 4
     N_SPECTRAL_BANDS = 24
