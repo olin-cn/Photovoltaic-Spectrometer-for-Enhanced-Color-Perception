@@ -1,7 +1,3 @@
-% ---------------------
-% @Description: vdwRS2-based reproduction for Fig. 3c and Fig. 3h
-% @Note: This script only loads measured signals and spectra from data files.
-% ---------------------
 clearvars; clc;
 
 packageDir = fileparts(mfilename('fullpath'));
