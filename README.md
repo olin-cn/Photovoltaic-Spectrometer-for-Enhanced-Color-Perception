@@ -34,7 +34,7 @@ The reconstruction workflows use the supplied measured device-response data. The
 │
 ├── 3. Image classification/
 │   ├── Train.py
-│   ├── data/
+│   ├── data/(Storage space is limited; please download it yourself.)
 │   │   └── Houston2018/
 │   │       ├── houston_hsi.mat
 │   │       └── houston_gt.mat
